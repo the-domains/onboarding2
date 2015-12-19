@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[onboarding2]]></title>
         <description><![CDATA[onboarding2]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/onboarding2/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 19 Dec 2015 22:58:26 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 19 Dec 2015 22:58:35 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/onboarding2/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[How Long Could You Survive In Outer Space? - Discovery News]]></title>
+            <description><![CDATA[<article><h1>How Long Could You Survive In Outer Space? - Discovery News</h1><p>How Long Could You Survive In Outer Space? - Discovery News - Medium</p></article>]]></description>
+            <link>https://medium.discoverynews.com/how-long-could-you-survive-in-outer-space-9996627dbd3a#.29hvrt75p</link>
+            <guid isPermaLink="false">32a50c5c-5f8f-4e24-8d34-4fcf9da47c9b</guid>
+            <pubDate>Sat, 19 Dec 2015 22:58:25 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img alt="GoodMorning&period; Our magnificent blue spaceship&period;&period;&period;" src="https://pbs.twimg.com/media/CUQipDVUcAAj2t_.jpg:large">]]></description>
